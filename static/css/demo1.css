@@ -1,0 +1,20 @@
+body {
+  background-color: #1E1E1E;
+  margin: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+/*.container-wrapper {*/
+/*  display: flex;*/
+/*  align-items: center;*/
+/*  justify-content: center;*/
+/*  height: 100vh;*/
+/*}*/
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
